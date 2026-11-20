@@ -4,7 +4,7 @@
      ============================================================ -->
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <!-- Datos del canal: obligatorios id, title y updated -->
-  <id>https://www.ejemplo.es/atom.xml</id>
+  <id>https://lexstier.github.io/atom.xml</id>
   <title>Club de Senderismo Cumbre · Próximas salidas</title>
   <subtitle>Avisos de las salidas y noticias del club.</subtitle>
   <updated>2026-10-27T17:00:00Z</updated>
